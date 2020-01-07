@@ -1,0 +1,11 @@
+================================================================== BLOCK CHAIN ===================================================================
+- Thành phần của 1 block
+	+ 1. transaction data
+	+ 2. signature of previous block
+	+ 3. a nonce
+- Trong 1 block có dữ liệu không phục vụ mục đích gì ngoài việc thay đổi để có chữ ký hợp lệ được gọi là the nonce of a block
+
+- Nonce of a block thì chỉ có thể là số
+
+- mining là quá trình thay đổi nonce và băm dữ liệu của block để tim signature hợp lệ
+
